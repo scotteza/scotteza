@@ -1,4 +1,4 @@
-### Hi there 😁
+Hello! 😁
 
 I'm Scott Edwards, a software developer living in Bristol.
 
