@@ -1,6 +1,6 @@
 Hello! 😁
 
-I'm Scott Edwards, a lead software engineer and engineering manager.
+I'm Scott, a lead software engineer and engineering manager.
 
 I work as a platform engineering manager for two teams (Developer Experience and Edge Compute) at [Cazoo](https://www.cazoo.co.uk/).
 
