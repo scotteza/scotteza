@@ -1,6 +1,6 @@
 Hello! 😁
 
-I'm Scott, a lead software engineer and engineering manager.
+I'm Scott, an engineering manager and lead software engineer .
 
 I work as a platform engineering manager for 3 teams (Developer Experience, Edge Compute, and SRE) at [Cazoo](https://www.cazoo.co.uk/).
 
