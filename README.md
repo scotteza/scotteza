@@ -1,6 +1,6 @@
 Hello! 😁
 
-I'm Scott, an engineering leader and all-round geek. I am the Head of Cloud Operations at [Artlogic](https://artlogic.net/).
+I'm Scott, an engineering leader and all-round geek. I am the Chief Technology Officer at [Direct Trace](https://direct-trace.com/).
 
 In my spare time I read books, play guitar, garden, and learn about investing.
 
